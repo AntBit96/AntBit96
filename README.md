@@ -1,9 +1,6 @@
 # Hi there! 👋 
 
 Welcome to my GitHub profile! I'm a Data Engineer with a passion for working in the cloud, particularly Google Cloud Platform. Here, you’ll find some of my proof of concepts and quirky experiments that I’ve shared with my team or worked on for fun. 😄
-## Language Stats 🛠️
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntBit96&layout=compact&theme=tokyonight)
 
 ## A little about me 🧑‍💻
 - 💼 **Data Engineer** @ **Jakala** 🐊
